@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn {
+    @apply flex h-10 w-10 items-center justify-center rounded-md p-2 hover:bg-gray-200 cursor-pointer dark:text-white dark:hover:bg-[#333];
+}
+
+.dark body{
+    background: #1c1c1c;
+}
+
+
+*{
+    -webkit-tap-highlight-color: transparent;
+    -webkit-touch-callout: none;
+}
