@@ -25,7 +25,7 @@ import { useRouter } from "vue-router";
 const authStore = useAuthStore();
 const postsStore = usePostsStore();
 const usersStore = useUsersStore();
-const siteName = "ADMIN - Developerzilla";
+const siteName = "ADMIN - Rajbongshi.com";
 const loading = ref(false);
 const router = useRouter();
 

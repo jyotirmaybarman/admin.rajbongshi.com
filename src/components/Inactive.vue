@@ -61,7 +61,7 @@
                 Your account is in inactive state, wait for it to be reviewed by us or contact us
             </p>
             <p class="mb-6">
-                <a class="text-blue-500" href="mailto:contact@developerzilla.com">contact@developerzilla.com</a>
+                <a class="text-blue-500" href="mailto:contact@rajbongshi.com">contact@rajbongshi.com</a>
             </p>
             <button
                 @click="emits('logout')"
